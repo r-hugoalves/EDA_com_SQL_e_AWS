@@ -1,1 +1,1 @@
-# EDA_com_SQL_e_AWS
+#Exploração e análise de dados de crédito com SQL
