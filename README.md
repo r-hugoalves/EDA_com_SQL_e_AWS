@@ -22,3 +22,5 @@ O conjunto em específico que vamos utilizar pode ser obtido [aqui](https://gith
 * limite_credito = limite de credito do cliente
 * valor_transacoes_12m = valor das transações dos ultimos 12 meses
 * qtd_transacoes_12m = quantidade de transacoes dos ultimos 12 meses
+
+[Notebook do projeto](https://colab.research.google.com/drive/1W-YLnW3xDe7G4DWDf6JamN4UDY4prr2b?usp=sharing)
